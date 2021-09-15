@@ -6,7 +6,7 @@ function main() {
     //Only change code above this line
 x = x + 2;
 y = y + 4;
-z = z + " John! ";
+z = z + " John!";
 return [x, y, z];
 }
 
